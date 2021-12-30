@@ -4,8 +4,15 @@ Hello World !!
 change 1:- added for login issue
 change 2:- done by team mate for 
 
+
 Change 3:- for the bug2.
 change 4:- for stash test for WI5 in progress
 change 5: For WI6 on local master to test normal
 change 5:by team mate on remote master bug3
+
+Change 6:- for the bug2.
+change 7:- for stash test for WI5 in progress
+change 8:- For WI6 on local master to test normal
+change 9:- on local master for WI7
+
 
