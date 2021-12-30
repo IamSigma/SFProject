@@ -1,10 +1,11 @@
 Hello World !!
 
 
-change :- added for login issue
-change :- done by team mate for 
+change 1:- added for login issue
+change 2:- done by team mate for 
 
-Change :- for the bug2.
-change :- for stash test for WI5 in progress
-change : For WI6 on local master to test normal
+Change 3:- for the bug2.
+change 4:- for stash test for WI5 in progress
+change 5: For WI6 on local master to test normal
+change 5:by team mate on remote master bug3
 
